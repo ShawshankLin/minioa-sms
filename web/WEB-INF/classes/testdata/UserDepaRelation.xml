@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <user_depa_relation 
+			ID_='203' 
+			CID_='794' 
+			CDATE_='2015-04-19 18:39:30.816' 
+			userid='271' 
+			depaid='794' 
+	  />	
+  
+</dataset>

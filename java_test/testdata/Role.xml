@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <role 
+			ID_='530' 
+			CID_='283' 
+			CDATE_='2015-04-19 18:39:26.51' 
+			MID_='616' 
+			MDATE_='2015-04-19 18:39:26.51' 
+			UUID_='Uuid984' 
+			roleName='RoleName832' 
+			roleDesc='RoleDesc014' 
+			roleMailNum='647' 
+			roleNoteNum='909' 
+			personMailNum='669' 
+			personNoteNum='776' 
+			noreadnum='837' 
+			mailsize='578' 
+	  />	
+  
+</dataset>

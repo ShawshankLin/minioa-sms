@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <note_send 
+			ID_='386' 
+			CID_='048' 
+			CDATE_='2015-04-19 18:39:25.665' 
+			MID_='415' 
+			MDATE_='2015-04-19 18:39:25.665' 
+			UUID_='Uuid611' 
+			recipient='Recipient121' 
+			subject='Subject354' 
+			message='Message786' 
+			notestatus='Notestatus510' 
+			sendlist='Sendlist523' 
+			sendid='Sendid978' 
+			msg_txt='MsgTxt977' 
+			type='213' 
+			url='Url267' 
+	  />	
+  
+</dataset>

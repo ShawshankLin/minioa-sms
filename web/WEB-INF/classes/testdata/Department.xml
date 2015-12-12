@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <department 
+			ID_='104' 
+			CID_='991' 
+			CDATE_='2015-04-19 18:39:16.73' 
+			MID_='524' 
+			MDATE_='2015-04-19 18:39:16.73' 
+			UUID_='Uuid391' 
+			orgId='822' 
+			parentId='823' 
+			depaName='DepaName083' 
+			depaDesc='DepaDesc041' 
+			sequence='861' 
+	  />	
+  
+</dataset>

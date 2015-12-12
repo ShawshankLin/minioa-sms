@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <user 
+			ID_='724' 
+			CID_='371' 
+			CDATE_='2015-04-19 18:39:28.933' 
+			MID_='005' 
+			MDATE_='2015-04-19 18:39:28.933' 
+			UUID_='Uuid797' 
+			userName='UserName409' 
+			depaId='202' 
+			jobId='JobId798' 
+			email='Email856' 
+			password='Password647' 
+			phone='Phone847' 
+			mobilePhone='MobilePhone474' 
+			gender='7' 
+			displayName='DisplayName948' 
+			isLock='3' 
+			jobId2='147' 
+			noteSendNum='786' 
+			mailSendNum='559' 
+			status='421' 
+			clientid='Clientid894' 
+	  />	
+  
+</dataset>

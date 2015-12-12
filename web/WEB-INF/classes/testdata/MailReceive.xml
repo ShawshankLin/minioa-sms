@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <mail_receive 
+			ID_='372' 
+			CID_='959' 
+			CDATE_='2015-04-19 18:39:21.129' 
+			MID_='971' 
+			MDATE_='2015-04-19 18:39:21.129' 
+			UUID_='Uuid679' 
+			recipient='Recipient771' 
+			subject='Subject552' 
+			message='Message043' 
+			sendtype='Sendtype17' 
+			mailstatus='Mailstatus628' 
+			senduserlist='Senduserlist639' 
+			sendid='Sendid743' 
+			mailtype='Mailtype108' 
+			msg_txt='MsgTxt274' 
+			size='Size592' 
+	  />	
+  
+</dataset>

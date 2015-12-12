@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <mail_attachment 
+			ID_='096' 
+			CID_='987' 
+			CDATE_='2015-04-19 18:39:19.572' 
+			MID_='330' 
+			MDATE_='2015-04-19 18:39:19.572' 
+			UUID_='Uuid329' 
+			filename='Filename228' 
+			filetype='Filetype312' 
+			filesize='141' 
+			oldname='Oldname669' 
+	  />	
+  
+</dataset>
