@@ -20,6 +20,10 @@
 </head>
 
 <body>
+
+<%  
+        out.print("["+request.getLocalAddr()+":" +request.getLocalPort()+"]" + "<br/>session id:" + session.getId());   
+    %>  
 <div class="container">
     <div class="line">
         <div class="xs6 xm4 xs3-move xm4-move">

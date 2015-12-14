@@ -1,5 +1,5 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%@page import="com.minioa2.project.model.*"%>
+<%@page import="cn.edu.dglg.cis.subject.model.*"%>
 <%@ include file="/commons/taglibs.jsp"%>
 <%@ taglib tagdir="/WEB-INF/tags/simpletable" prefix="simpletable"%>
 <%

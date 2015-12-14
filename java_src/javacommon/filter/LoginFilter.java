@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.minioa2.project.utils.MySession;
+import cn.edu.dglg.cis.subject.utils.MySession;
 
 public class LoginFilter implements Filter {
 	public void doFilter(ServletRequest req, ServletResponse res,

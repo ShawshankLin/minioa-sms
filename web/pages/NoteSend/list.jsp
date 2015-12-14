@@ -1,6 +1,6 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
 <%@ include file="/commons/taglibs.jsp"%>
-<%@page import="com.minioa2.project.model.*"%>
+<%@page import="cn.edu.dglg.cis.subject.model.*"%>
 <%@ taglib tagdir="/WEB-INF/tags/simpletable" prefix="simpletable"%>
 <%
 String path = request.getContextPath();

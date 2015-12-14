@@ -8,24 +8,21 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.junit.Test;
 
+import cn.edu.dglg.cis.subject.dao.*;
+import cn.edu.dglg.cis.subject.model.*;
+import cn.edu.dglg.cis.subject.service.*;
+import cn.edu.dglg.cis.subject.vo.query.*;
 import cn.org.rapid_framework.test.context.TestMethodContext;
-
 import static junit.framework.Assert.*;
 
 import java.util.*;
 
 import javacommon.base.*;
 import javacommon.util.*;
-
 import cn.org.rapid_framework.util.*;
 import cn.org.rapid_framework.web.util.*;
 import cn.org.rapid_framework.page.*;
 import cn.org.rapid_framework.page.impl.*;
-
-import com.minioa2.project.model.*;
-import com.minioa2.project.dao.*;
-import com.minioa2.project.service.*;
-import com.minioa2.project.vo.query.*;
 
 /**
  * @author jxx

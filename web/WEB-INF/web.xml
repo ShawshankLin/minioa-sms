@@ -30,7 +30,7 @@
     </init-param>
   </servlet>
   <listener>
-    <listener-class>com.minioa2.project.utils.SessionCounter</listener-class>
+    <listener-class>cn.edu.dglg.cis.subject.utils.SessionCounter</listener-class>
   </listener>
   <session-config>
     <session-timeout>40</session-timeout>

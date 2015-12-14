@@ -1,4 +1,4 @@
-<%@page import="com.minioa2.project.model.*" %>
+<%@page import="cn.edu.dglg.cis.subject.model.*" %>
 <%@ page contentType="text/html;charset=UTF-8" %>
 <%@ include file="/commons/taglibs.jsp" %>
 
